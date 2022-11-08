@@ -45,7 +45,7 @@ export const popularProducts = [
   },
   {
     id: 2,
-    img: "https://www.pngkey.com/png/full/618-6185010_auto-estima-aesthetic-clothes-90s-fashion-quis.png",
+    img: "https://i.pinimg.com/originals/5f/2c/50/5f2c504867796bbaf3a2c66685233c53.png",
   },
   {
     id: 3,
@@ -53,7 +53,7 @@ export const popularProducts = [
   },
   {
     id: 4,
-    img: "https://pngimg.com/uploads/dress/dress_PNG127.png",
+    img: "https://i.pinimg.com/originals/72/2f/9b/722f9b8ec1cb22cc29dc7b93ec8a9639.png",
   },
   {
     id: 5,
